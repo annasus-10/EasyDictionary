@@ -41,7 +41,7 @@ EasyDictionary is an Android application designed to provide word definitions us
 
 ## Acknowledgments
 
-- **UI References**: Some UI elements and design ideas were inspired by the YouTube video "[Title of the Video]" by [YouTuber's Name]. You can watch the original video [here]([https://www.youtube.com/link-to-video](https://youtu.be/wisKSTIyIA0?si=RGcGG8Od0AFDSkWE)).
+- **UI References**: Some UI elements and design ideas were inspired by the YouTube video "How to make Dictionary app | Android Studio | 2024" by [Easy Tuto](https://youtu.be/LM5lWetuCHo?si=YnRE5dC98tkY797V).
 
 ## License
 
